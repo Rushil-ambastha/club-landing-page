@@ -44,7 +44,7 @@ header{
 }
 .nav{
     margin: 2rem;
-    padding-right: 1rem;
+    padding-right: 3rem;
     border-radius: 1rem;
     width: auto;
     height: 8rem;
@@ -222,7 +222,7 @@ header{
 .sm-list{
     display: flex;
     position: absolute;
-    margin-left: 2rem;
+    margin-left: 40rem;
     margin-top: 40rem;
     right: 70%;
 
